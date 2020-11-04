@@ -5,4 +5,4 @@ The Iris flower data set or Fisher's Iris data set is a multivariate data set in
 
 Two of the three species were collected in the Gaspé Peninsula "all from the same pasture, and picked on the same day and measured at the same time by the same person with the same apparatus". Fisher's paper was published in the journal, the Annals of Eugenics, creating controversy about the continued use of the Iris dataset for teaching statistical techniques today.
 
-In this case, we will use logistic Regression for classification Model.
+In this case, we will use Iris (synthetic dataset) and Logistic Regression as the classification Model.
